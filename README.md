@@ -26,6 +26,7 @@ node-telegram-bot
 ## Documentation
 
 Documentation is built using jsdoc with DocStrap. More to come (including examples)!
+
 [Documentation Link](http://depoio.github.io/node-telegram-bot/Bot.html)
 
 ## Sending files (including photo, audio, document, video and sticker) 
